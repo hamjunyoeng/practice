@@ -32,4 +32,4 @@ class BinaryTree:
       self._postorderSubtree(node.right)
       print(node.data, end = ' ')
    
-      
+     
