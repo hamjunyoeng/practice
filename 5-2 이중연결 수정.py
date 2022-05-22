@@ -1,7 +1,7 @@
 class dList:
   class Node: # 이중연결리스트 노드
     def __init__(self,data,back=None,next=None):
-        self.data = data
+        self.data = data 
         self.next = next
         self.back = back
 
