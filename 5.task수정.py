@@ -1,4 +1,4 @@
-class python_LIST:
+class python_LIST: 
   def __init__(self):
     self.running = True
     self.addrList = ["www.hufs.ac.kr"] # 초기 사이트 주소 설정
