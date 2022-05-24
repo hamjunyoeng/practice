@@ -1,5 +1,5 @@
 class python_LIST: 
-  def __init__(self):
+  def __init__(self): 
     self.running = True
     self.addrList = ["www.hufs.ac.kr"] # 초기 사이트 주소 설정
     self.visitList = ["www.hufs.ac.kr"] # go로 방문한 주소 리스트
