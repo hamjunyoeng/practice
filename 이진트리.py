@@ -9,7 +9,7 @@ class BinaryTree:
     self.root = None
   
   def inorder(self):
-    self._inorderSubtree(self.root)
+    self._inorderSubtree(self.root)#
     
   def _inorderSubtree(self, node):
     if node is not None:
